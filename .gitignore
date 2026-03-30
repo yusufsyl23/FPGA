@@ -1,0 +1,36 @@
+# Vivado generated files
+*.log
+*.jou
+*.pb
+*.rpt
+*.wdf
+*.dcp
+*.rpx
+*.vdb
+*.obj
+*.rlx
+*.wpc
+*.wdb
+*.wcfg
+*.rtti
+*.xdbg
+*.reloc
+*.dbg
+
+# Common Vivado generated folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+Xil/
+
+# Temporary / OS files
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Optional binary outputs
+*.exe

@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yusuf/Desktop/Vivado Projeleri/ders_6_karta_kod_gomme/ders_6_karta_kod_gomme.srcs/sources_1/new/full_adder.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'full_adder'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yusuf/Desktop/Vivado Projeleri/ders_6_karta_kod_gomme/ders_6_karta_kod_gomme.srcs/sources_1/new/half_adder.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'half_adder'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yusuf/Desktop/Vivado Projeleri/ders_6_karta_kod_gomme/ders_6_karta_kod_gomme.srcs/sources_1/new/N_bit_adder.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'N_bit_adder'

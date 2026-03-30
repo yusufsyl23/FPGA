@@ -1,7 +1,0 @@
-Running: xsim.dir/N_bit_adder_behav/xsimk.exe -simmode gui -wdb N_bit_adder_behav.wdb -simrunnum 0 -socket 57803
-Design successfully loaded
-Design Loading Memory Usage: 29576 KB (Peak: 29576 KB)
-Design Loading CPU Usage: 843 ms
-Simulation completed
-Simulation Memory Usage: 30328 KB (Peak: 30328 KB)
-Simulation CPU Usage: 968 ms

@@ -1,4 +1,0 @@
-Time resolution is 1 ps
-Failure: SIMILASYON BITTI
-Time: 35 ms  Iteration: 0  Process: /tb_pwm/P_STIMULI  File: C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_11_PWM ile RGB Led/ders_11_PWM ile RGB Led.srcs/sim_1/new/tb_pwm.vhd
-$finish called at time : 35 ms : File "C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_11_PWM ile RGB Led/ders_11_PWM ile RGB Led.srcs/sim_1/new/tb_pwm.vhd" Line 89
