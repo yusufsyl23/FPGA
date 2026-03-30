@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_tx_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_uart_tx" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="3,250.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="3,499.801 ns"></ZoomEndTime>
+      <Cursor1Time time="105.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="151"></NameColumnWidth>
+      <ValueColumnWidth column_width="136"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/tb_uart_tx/DUT/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/din_i" type="array">
+      <obj_property name="ElementShortName">din_i[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din_i[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/tx_start_i" type="logic">
+      <obj_property name="ElementShortName">tx_start_i</obj_property>
+      <obj_property name="ObjectShortName">tx_start_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/tx_done_tick_o" type="logic">
+      <obj_property name="ElementShortName">tx_done_tick_o</obj_property>
+      <obj_property name="ObjectShortName">tx_done_tick_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/tx_o" type="logic">
+      <obj_property name="ElementShortName">tx_o</obj_property>
+      <obj_property name="ObjectShortName">tx_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/bittimer" type="other">
+      <obj_property name="ElementShortName">bittimer</obj_property>
+      <obj_property name="ObjectShortName">bittimer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/shreg" type="array">
+      <obj_property name="ElementShortName">shreg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">shreg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/bitcounter" type="other">
+      <obj_property name="ElementShortName">bitcounter</obj_property>
+      <obj_property name="ObjectShortName">bitcounter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/c_clfreq" type="other">
+      <obj_property name="ElementShortName">c_clfreq</obj_property>
+      <obj_property name="ObjectShortName">c_clfreq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/c_bauderrate" type="other">
+      <obj_property name="ElementShortName">c_bauderrate</obj_property>
+      <obj_property name="ObjectShortName">c_bauderrate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/c_stopbit" type="other">
+      <obj_property name="ElementShortName">c_stopbit</obj_property>
+      <obj_property name="ObjectShortName">c_stopbit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/bittimer_lim" type="other">
+      <obj_property name="ElementShortName">bittimer_lim</obj_property>
+      <obj_property name="ObjectShortName">bittimer_lim</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/DUT/stopbit_lim" type="other">
+      <obj_property name="ElementShortName">stopbit_lim</obj_property>
+      <obj_property name="ObjectShortName">stopbit_lim</obj_property>
+   </wvobject>
+</wave_config>

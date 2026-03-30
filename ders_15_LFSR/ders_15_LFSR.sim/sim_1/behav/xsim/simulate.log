@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulasyon Bitti
+Time: 11110 ns  Iteration: 0  Process: /LFSR_tb/STIMULI  File: C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_15_LFSR/ders_15_LFSR.srcs/sim_1/new/LFSR_tb.vhd
+$finish called at time : 11110 ns : File "C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_15_LFSR/ders_15_LFSR.srcs/sim_1/new/LFSR_tb.vhd" Line 96

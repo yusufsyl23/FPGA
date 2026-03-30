@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: SIMULASYON BITTI
+Time: 203700 ns  Iteration: 0  Process: /tb_uart_rx/P_STIMULI  File: C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_13_uart_rx/ders_13_uart_rx.srcs/sim_1/new/tb_uart_rx.vhd
+$finish called at time : 203700 ns : File "C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_13_uart_rx/ders_13_uart_rx.srcs/sim_1/new/tb_uart_rx.vhd" Line 99

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Aug  7 13:38:00 2025
+# Process ID         : 2204
+# Current directory  : C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_14_Memory_Turleri/ders_14_Memory_Turleri.runs/synth_1
+# Command line       : vivado.exe -log BRAM_Uart.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BRAM_Uart.tcl
+# Log file           : C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_14_Memory_Turleri/ders_14_Memory_Turleri.runs/synth_1/BRAM_Uart.vds
+# Journal file       : C:/Users/Yusuf Soylu/Desktop/Vivado Projeleri/ders_14_Memory_Turleri/ders_14_Memory_Turleri.runs/synth_1\vivado.jou
+# Running On         : Yusuf-Soylu
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 255HX
+# CPU Frequency      : 2880 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 20
+# Host memory        : 16553 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 28901 MB
+# Available Virtual  : 18012 MB
+#-----------------------------------------------------------
+source BRAM_Uart.tcl -notrace

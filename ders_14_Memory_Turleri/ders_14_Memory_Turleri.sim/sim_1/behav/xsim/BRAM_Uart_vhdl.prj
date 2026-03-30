@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ders_14_Memory_Turleri.srcs/sources_1/new/block_ram.vhd" \
+"../../../../../ders_13_uart_rx/ders_13_uart_rx.srcs/sources_1/new/uart_rx.vhd" \
+"../../../../../ders_12_uart/ders_12_uart.srcs/sources_1/new/uart_tx.vhd" \
+"../../../../ders_14_Memory_Turleri.srcs/sources_1/new/BRAM_Uart.vhd" \
+
+# Do not sort compile order
+nosort

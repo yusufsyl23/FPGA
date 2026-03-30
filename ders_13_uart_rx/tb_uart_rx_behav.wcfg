@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_rx_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_uart_rx" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="34,677.888 ns"></ZoomStartTime>
+      <ZoomEndTime time="34,936.689 ns"></ZoomEndTime>
+      <Cursor1Time time="34,820.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="151"></NameColumnWidth>
+      <ValueColumnWidth column_width="91"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_uart_rx/DUT/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/rx_i" type="logic">
+      <obj_property name="ElementShortName">rx_i</obj_property>
+      <obj_property name="ObjectShortName">rx_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/dout_o" type="array">
+      <obj_property name="ElementShortName">dout_o[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_o[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/rx_done_tick_o" type="logic">
+      <obj_property name="ElementShortName">rx_done_tick_o</obj_property>
+      <obj_property name="ObjectShortName">rx_done_tick_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/bittimer" type="other">
+      <obj_property name="ElementShortName">bittimer</obj_property>
+      <obj_property name="ObjectShortName">bittimer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/shreg" type="array">
+      <obj_property name="ElementShortName">shreg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">shreg[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/bitcounter" type="other">
+      <obj_property name="ElementShortName">bitcounter</obj_property>
+      <obj_property name="ObjectShortName">bitcounter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/c_clfreq" type="other">
+      <obj_property name="ElementShortName">c_clfreq</obj_property>
+      <obj_property name="ObjectShortName">c_clfreq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/c_bauderrate" type="other">
+      <obj_property name="ElementShortName">c_bauderrate</obj_property>
+      <obj_property name="ObjectShortName">c_bauderrate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/DUT/c_bittimer_lim" type="other">
+      <obj_property name="ElementShortName">c_bittimer_lim</obj_property>
+      <obj_property name="ObjectShortName">c_bittimer_lim</obj_property>
+   </wvobject>
+</wave_config>
